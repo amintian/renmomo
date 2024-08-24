@@ -8,7 +8,7 @@ To access admin page, add url /admin.
 |   Level   |     Username      | Password |
 |:---------:|:-----------------:|---------:|
 | Admin     |  admin            | admin    |
-| User      |  yusuf@gmail.com  | yusuf    |
+| User      |  amin@gmail.com   | amin    |
 
 ## Sistem Requirement
 - Database MySQL
